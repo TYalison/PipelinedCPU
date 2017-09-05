@@ -1,6 +1,6 @@
 # PipelinedCPU
 
-Pipelined CPU with 5 stages
+5 stages
 
 Distributed Controller Architecture
 
